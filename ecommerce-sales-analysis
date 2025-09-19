@@ -1,0 +1,17 @@
+End-to-end E-Commerce Sales Analytics project using Python (Pandas, Seaborn, Matplotlib). Includes preprocessing, EDA, 10+ visualizations, and business insights from Amazon, International, Inventory, Pricing, and Expense datasets.
+
+From Data to Decisions: Sales Analytics for Business Impact
+
+This project analyzes multi-source e-commerce datasets (Amazon sales, International sales, Inventory, Expenses, Pricing, and Cloud Warehouse costs) to uncover trends, patterns, and business opportunities.
+
+Key features:
+
+🧹 Data cleaning & preprocessing (handling missing values, duplicates, type corrections)
+
+📊 Exploratory Data Analysis (EDA) with 10+ Seaborn visualizations
+
+💡 Insight generation covering revenue trends, inventory alignment, expense drivers, and pricing strategies
+
+📌 Business & societal perspectives with actionable recommendations
+
+Tools & Libraries: Python, Pandas, NumPy, Seaborn, Matplotlib, Google Colab
