@@ -1,4 +1,4 @@
-# 📊 E-Commerce Sales Analysis (2019–2024)  
+# 📊 E-Commerce Sales Analysis 
 **From Data to Decisions: Trends, Profitability & Business Insights**
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)  
